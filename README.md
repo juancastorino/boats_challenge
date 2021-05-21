@@ -1,16 +1,20 @@
-# boats_challenge
+# Boats Challenge
 
-A new Flutter project.
+(flutter 2, null safety on, no packages)
 
-## Getting Started
+Inspiration this design:
+[Dribble: Cars-Encyclopedia-Interaction](https://dribbble.com/shots/5845145-Cars-Encyclopedia-Interaction)
 
-This project is a starting point for a Flutter application.
+Challenge from Facebook:
+[Challenge Link](https://www.facebook.com/groups/flutter.dart.spanish/permalink/3916770818405574/)
 
-A few resources to get you started if this is your first Flutter project:
+## Colaborate
+- [<img style="color:white;" align="left" alt="LinkedIn" width="80" src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" />]( https://www.buymeacoffee.com/juancastorino)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Gif Demo
+
+<img src="assets/FinalResulsBoatChallenge.gif"></img>
+## How to reach me ...
+[<img align="left" alt="LinkedIn" width="80" src="assets/linkedin.ico" />]( https://linkedin.com/in/juan-castorino)

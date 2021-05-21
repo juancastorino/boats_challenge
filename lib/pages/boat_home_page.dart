@@ -53,7 +53,7 @@ class _BoatHomePageState extends State<BoatHomePage>
 
   @override
   Widget build(BuildContext context) {
-    final boatList = getDummyBoatsList();
+    final boatList = getDummyListBo();
     return Material(
       child: Stack(
         children: [
@@ -345,7 +345,7 @@ class _BoatHomePageState extends State<BoatHomePage>
   }
 }
 
-List<Boats> getDummyBoatsList() {
+List<Boats> getDummyListBo() {
   List<Boats> list = [];
 
   Boats boat = new Boats(
